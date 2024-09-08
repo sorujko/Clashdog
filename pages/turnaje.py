@@ -15,7 +15,8 @@ tournament_images = {
     "Clash of the Stars 5" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ttztzwgHA7aeyP9Pr4Qh81mG2rMywjeOMw&s",
     "Clash of the Stars 6" : "https://vyhraj.sk/wp-content/uploads/2023/09/Clash-of-the-Stars-6.jpg",
     "Clash of the Stars 7" : "https://www.kurzovesazeni.com/wp-content/uploads/2023/12/Snimek-obrazovky-2023-12-13-v-11.37.05.webp",
-    "Clash of the Stars 8" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQabKJyzxTRmAKS-gVBeqAhJigY-eFGD-ld9w&s"
+    "Clash of the Stars 8" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQabKJyzxTRmAKS-gVBeqAhJigY-eFGD-ld9w&s",
+    "Clash of the Stars 9" : "https://www.betarena.sk/obrazek/66d3001d3d239/clash-9.jpg"
 }
 
 # Connect to Google Sheets and fetch data
